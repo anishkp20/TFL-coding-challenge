@@ -20,10 +20,10 @@ Run the below commands to execute the console application:
 
 dotnet build --configuration Release
 In command mode, Navigate to "TFL coding challenge\RoadStatucConsoleApp\bin\Release\net6.0" and run the below commands
-RoadStatucConsoleApp.exe run A2
-RoadStatucConsoleApp.exe run A222
-RoadStatucConsoleApp.exe run
-RoadStatucConsoleApp.exe run ""
+RoadStatucConsoleApp.exe A2
+RoadStatucConsoleApp.exe A222
+RoadStatucConsoleApp.exe
+RoadStatucConsoleApp.exe ""
 
 ## How to run the test projects
 Navigate to /RoadStatucConsoleApp.Tests folder
