@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadStatucConsoleApp", "RoadStatucConsoleApp.csproj", "{7CB7FF07-C177-467C-8646-05EC39FE578C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadStatucConsoleApp.Tests", "..\RoadStatucConsoleApp.Tests\RoadStatucConsoleApp.Tests.csproj", "{947D584C-B736-425F-AA95-5D481A7B93AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{70DE81BF-2AC3-4E39-8FD6-EE652FE672D5}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CB7FF07-C177-467C-8646-05EC39FE578C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB7FF07-C177-467C-8646-05EC39FE578C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB7FF07-C177-467C-8646-05EC39FE578C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB7FF07-C177-467C-8646-05EC39FE578C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947D584C-B736-425F-AA95-5D481A7B93AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947D584C-B736-425F-AA95-5D481A7B93AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947D584C-B736-425F-AA95-5D481A7B93AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947D584C-B736-425F-AA95-5D481A7B93AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAB89B5E-E221-4F09-A17B-88DC5D5BBDCE}
+	EndGlobalSection
+EndGlobal
