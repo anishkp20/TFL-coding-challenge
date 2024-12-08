@@ -19,18 +19,18 @@ Open command prompt and navigate to folder /TFL coding challenge/RoadStatucConso
 Run the below commands to execute the console application:
 
 dotnet build --configuration Release
-In command mode, Navigate to "TFL coding challenge\RoadStatucConsoleApp\bin\Release\net6.0" and run the below commands
-RoadStatucConsoleApp.exe A2
-RoadStatucConsoleApp.exe A222
-RoadStatucConsoleApp.exe
-RoadStatucConsoleApp.exe ""
+In command mode, Navigate to "TFL coding challenge\RoadStatucConsoleApp\bin\Release\net6.0" and run the below commands <br>
+RoadStatucConsoleApp.exe A2 <br>
+RoadStatucConsoleApp.exe A222 <br>
+RoadStatucConsoleApp.exe <br>
+RoadStatucConsoleApp.exe "" <br>
 
 ## How to run the test projects
-Navigate to /RoadStatucConsoleApp.Tests folder
-Before running the application, navigate to /TFL coding challenge/RoadStatucConsoleApp.Tests and open file `appsettings.json`
-Update the AppId and AppKey in the `appsettings.json` file.
+Navigate to /RoadStatucConsoleApp.Tests folder <br>
+Before running the application, navigate to /TFL coding challenge/RoadStatucConsoleApp.Tests and open file `appsettings.json` <br>
+Update the AppId and AppKey in the `appsettings.json` file.<br>
 
-Run the below commands to execute the unit tests:
-dotnet build --configuration Release
-In command mode, Navigate to "TFL coding challenge\RoadStatucConsoleApp.Tests\bin\Release\net6.0" and run the below commands
-dotnet test RoadStatucConsoleApp.Tests.dll
+Run the below commands to execute the unit tests: <br>
+dotnet build --configuration Release <br>
+In command mode, Navigate to "TFL coding challenge\RoadStatucConsoleApp.Tests\bin\Release\net6.0" and run the below commands <br>
+dotnet test RoadStatucConsoleApp.Tests.dll <br>
